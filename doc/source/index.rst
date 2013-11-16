@@ -12,7 +12,7 @@ Comment modifier ce tutorial?
 
 Utilisez la fonctionnalité "fork" du projet sur GitHub et soumettez un "PullRequest" avec vos modifications:
 
-  - https://github.com/Stibbons/rust-for-pythonists
+  - https://github.com/Stibbons/rust-tutorial-french
 
 Table des matières
 ==================

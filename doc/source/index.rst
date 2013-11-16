@@ -3,18 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-===============================================
-Welcome to Rust for Pythonists's documentation!
-===============================================
+==========================
+Tutorial Rust en Français
+==========================
 
-How to submit change to this documentation?
-===========================================
+Comment modifier ce tutorial?
+=============================
 
-Simply fork this project and submit a Pull Request:
+Utilisez la fonctionnalité "fork" du projet et soumettez un "PullRequest" avec vos modifications:
 
   - https://github.com/Stibbons/rust-for-pythonists
 
-Table of Contents:
+Table des matières
 ==================
 
 .. toctree::
@@ -22,8 +22,8 @@ Table of Contents:
 
    01-introduction/01-introduction
 
-Indices and tables
-==================
+Index et Tables
+===============
 
 * :ref:`genindex`
 * :ref:`modindex`

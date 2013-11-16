@@ -1,13 +1,13 @@
-====================
-Rust tutorial French
-====================
+=======================
+Rust tutorial in French
+=======================
 
-Homepage for the "Tutorial Rust en Français", the translation of the official Rust Tutorial in French.
+Homepage for the "Tutoriel Rust en Français", the translation of the official Rust Tutorial in French.
 
 This project holds the source code of the documentation publically available at the following URL:
 
 
-   http://www.great-a-blog.co/tutorial-rust
+   http://www.great-a-blog.co/tutoriel-rust
 
 
 How to edit documentation ?

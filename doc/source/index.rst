@@ -10,7 +10,7 @@ Tutorial Rust en Français
 Comment modifier ce tutorial?
 =============================
 
-Utilisez la fonctionnalité "fork" du projet et soumettez un "PullRequest" avec vos modifications:
+Utilisez la fonctionnalité "fork" du projet sur GitHub et soumettez un "PullRequest" avec vos modifications:
 
   - https://github.com/Stibbons/rust-for-pythonists
 

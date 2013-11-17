@@ -59,4 +59,4 @@ How to build ?
 References for this documentation
 =================================
 
-- TBD
+- http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide

@@ -7,7 +7,7 @@ Homepage for the "Tutoriel Rust en Français", the translation of the official R
 This project holds the source code of the documentation publically available at the following URL:
 
 
-   http://www.great-a-blog.co/tutoriel-rust
+   http://www.great-a-blog.co/tutoriel-rust/
 
 
 How to edit documentation ?

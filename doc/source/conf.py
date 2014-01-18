@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Rust for Pythonists documentation build configuration file, created by
+# Tutoriel Rust build configuration file, created by
 # sphinx-quickstart on Fri Nov 15 15:48:46 2013.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -170,7 +170,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'RustforPythonistsdoc'
+htmlhelp_basename = 'TutorielRustdoc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -189,7 +189,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'RustforPythonists.tex', u'Rust for Pythonists Documentation',
+  ('index', 'TutorielRust.tex', u'Tutoriel Rust',
    u'Gaetan Semet', 'manual'),
 ]
 
@@ -219,7 +219,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'rustforpythonists', u'Rust for Pythonists Documentation',
+    ('index', 'tutorielrust', u'Tutoriel Rust',
      [u'Gaetan Semet'], 1)
 ]
 
@@ -233,8 +233,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'RustforPythonists', u'Rust for Pythonists Documentation',
-   u'Gaetan Semet', 'RustforPythonists', 'One line description of project.',
+  ('index', 'TutorielRust', u'Tutoriel Rust',
+   u'Gaetan Semet', 'TutorielRust', 'One line description of project.',
    'Miscellaneous'),
 ]
 
